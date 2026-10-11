@@ -1,0 +1,22 @@
+{
+  "passed": 215,
+  "simulatedTurns": 200,
+  "checks": [
+    "three tray slots",
+    "reject out of bounds",
+    "free placement",
+    "exact chosen cells",
+    "reject overlap without consuming",
+    "use remaining pieces",
+    "refill only after all three",
+    "clear full row",
+    "clear full column",
+    "simultaneous crossing row and column",
+    "one blocked piece does not end game",
+    "all remaining pieces blocked ends game",
+    "loss clears entire board and tray",
+    "cannot play after loss",
+    "restart",
+    "grid invariant 0"
+  ]
+}
