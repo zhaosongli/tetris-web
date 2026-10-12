@@ -1,4 +1,4 @@
-# 234567 · 拖拖方块
+# 俄罗斯方块
 
 在线：https://zhaosongli.github.io/tetris-web/
 
