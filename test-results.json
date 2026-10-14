@@ -1,5 +1,5 @@
 {
-  "passed": 215,
+  "passed": 221,
   "simulatedTurns": 200,
   "checks": [
     "three tray slots",
@@ -9,14 +9,14 @@
     "reject overlap without consuming",
     "use remaining pieces",
     "refill only after all three",
+    "consecutive placements multiply cumulative score by 2 then 3 then 4",
     "clear full row",
     "clear full column",
     "simultaneous crossing row and column",
     "one blocked piece does not end game",
     "all remaining pieces blocked ends game",
+    "loss freezes and reports reached multiplier",
     "loss clears entire board and tray",
-    "cannot play after loss",
-    "restart",
-    "grid invariant 0"
+    "cannot play after loss"
   ]
 }
